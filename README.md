@@ -1,16 +1,19 @@
-## Hi there 👋
+I'm a undergraduate student from USTB
 
-<!--
-**suixin1424/suixin1424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About me**
 
-Here are some ideas to get you started:
+- 💬 Ask me about anything [here](https://github.com/suixin1424/suixin1424/issues)   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=suixin1424&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="suixin1424's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suixin1424&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+#### Top Repositories
+
+
+<a href="https://github.com/suixin1424/crossfire-yolo-TensorRT">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suixin1424&repo=crossfire-yolo-TensorRT&theme=buefy" />
+</a>
+<a href="https://github.com/suixin1424/mouse_control">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suixin1424&repo=mouse_control&theme=buefy" />
+</a>
