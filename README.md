@@ -1,4 +1,4 @@
-I'm a undergraduate student from USTB
+I'm a undergraduate student from USTB.  
 I will be a graduate student at USTC next year.
 
 **About me**
