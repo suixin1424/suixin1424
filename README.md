@@ -7,5 +7,5 @@ I will be a graduate student at USTC next year.
 - 💬 Contact me via [email](mailto:welders-rots-0m@icloud.com)
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-beta-three-41.vercel.app/api?username=suixin1424&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="suixin1424's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-rho-sandy-81.vercel.app/api/top-langs/?username=suixin1424&layout=compact&theme=buefy&hide_border=true&count_private=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-beta-three-41.vercel.app/api?username=suixin1424&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="suixin1424's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-beta-three-41.vercel.app/api/top-langs/?username=suixin1424&layout=compact&theme=buefy&hide_border=true&count_private=true" /></a> |
 | ------------- | ------------- |
