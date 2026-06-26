@@ -1,4 +1,4 @@
-Graduate student at USTC.  
+Master’s student at USTC.  
 
 **About me**
 
